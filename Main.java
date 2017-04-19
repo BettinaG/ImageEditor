@@ -1,5 +1,5 @@
 public class Main{
-	public static void main(Sring[] args){
+	public static void main(String[] args){
 		new ImageEditorFrame();
 	}
 }
